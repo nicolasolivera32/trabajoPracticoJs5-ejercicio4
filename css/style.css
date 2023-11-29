@@ -1,9 +1,11 @@
 body{
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 main{
     flex-grow: 1;
+    background: rgb(205, 88, 88);
 }
+
